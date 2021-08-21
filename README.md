@@ -44,8 +44,6 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
 ### Equipo 2
 
 * Steffany Michelle Monroy Talavera
-![SteffanyMonroy](https://user-images.githubusercontent.com/89037430/129850368-464cafaf-9a65-4801-83d6-fc5ae02ed3e0.jpeg)
-
 * Nayeli Villegas Ortiz
 * Hannia Paulina de la Paz Avila
 
